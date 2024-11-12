@@ -66,8 +66,8 @@ I'm Jiyoung Jeong, growing Developer.🌱
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/poseassome"
-  width="480"
-  height="340"
+  width="450"
+  height="auto"
 />
 </a>
 </div>
