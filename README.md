@@ -31,6 +31,8 @@ I'm Jiyoung Jeong, growing Developer.🌱
 
 ![React](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Vue](https://img.shields.io/badge/vue-4FC08D.svg?style=for-the-badge&logo=Vue.js&logoColor=white)
+![Electron](https://img.shields.io/badge/electron-47848F.svg?style=for-the-badge&logo=Electron&logoColor=white)
+![Node](https://img.shields.io/badge/node-5FA04E.svg?style=for-the-badge&logo=Node.js&logoColor=white)
 
 ![Scss](https://img.shields.io/badge/scss-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
 ![styled-components](https://img.shields.io/badge/styled--components-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)
